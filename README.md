@@ -1,2 +1,2 @@
-# reactjs-leaflet-accident
+# reactjs-leaflet-accidents
 ReactJs leaflet markers
